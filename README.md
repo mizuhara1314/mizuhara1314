@@ -18,9 +18,8 @@
 
 ### 使用到的框架
 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizuhara1314&hide=html&layout=compact&langs_count=10)
+
 
 
 #### 如何參與開源項目

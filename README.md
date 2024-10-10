@@ -1,25 +1,17 @@
+# 個人簡介
 
-
-# ProjectName
-
-
+## 開源貢獻 
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Pull Requests][pr-shield]][pr-url] <!-- 新增這行 -->
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Pull Requests][pr-shield]][pr-url]
 
- 
-## 目录
+
+ ## 目錄
 
 
 - [使用到的框架](#使用到的框架)
-- [贡献者](#贡献者)
-  - [如何参与开源项目](#如何参与开源项目)
+- [貢獻者](#貢獻者)
+  - [如何參與開源項目](#如何參與開源項目)
 
 
 
@@ -30,13 +22,10 @@
 - [xxxxxxx](https://jquery.com)
 - [xxxxxxx](https://laravel.com)
 
-### 贡献者
 
-请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
+#### 如何參與開源項目
 
-#### 如何参与开源项目
-
-贡献使开源社区成为一个学习、激励和创造的绝佳场所。你所作的任何贡献都是**非常感谢**的。
+貢獻使開源社區成為一個學習、激勵和創造的絕佳場所。你所作的任何貢獻都是**非常感謝**的。
 
 
 1. Fork the Project

@@ -9,11 +9,10 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Pull Requests][pr-shield]][pr-url] <!-- 新增這行 -->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-<!-- PROJECT LOGO -->
 
- 本篇README.md面向开发者
  
 ## 目录
 

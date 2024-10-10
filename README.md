@@ -18,7 +18,7 @@
 
 ### 使用到的框架
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizuhara1314&hide=html&layout=compact&langs_count=10)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizuhara1314&hide=html,css,scss&layout=compact&langs_count=10)
 
 
 

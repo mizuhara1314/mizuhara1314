@@ -2,8 +2,7 @@
 
 ### 開源貢獻 
 
-<!-- PROJECT SHIELDS -->
-[![Pull Requests][pr-shield]][pr-url]
+
 
 
 
